@@ -7,7 +7,7 @@ delay = int(input("Con quanto delay?\n "))
 
 isLoaded = input("\n\nPulsa [Enter] quando tengas el programa abierto")
 
-print("\nTenes 10 segundos antes de que empieze")
+print("\nTienes 10 segundos antes de que empieze")
 time.sleep(10)
 for i in range(0,numveces):
     if mensaje != "":
