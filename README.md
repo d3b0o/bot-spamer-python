@@ -1,5 +1,5 @@
 # bot-spamer-python
-# ¿Que és?
+# ¿Que és?:
 Es un simple programa para automatizar un envio massivo de mensajes de texto 
 # Funcionamiento:
 Para usarlo tienes que primero clonar el repositorio:
