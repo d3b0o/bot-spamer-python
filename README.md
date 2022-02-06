@@ -4,7 +4,7 @@ Es un simple programa para automatizar un envio massivo de mensajes de texto
 # Funcionamiento:
 Para usarlo tienes que primero clonar el repositorio:
       
-      git clone https://github.com/arnaudebo/bot-spamer-python
+      git clone https://github.com/d3b0o/bot-spamer-python
       
 Despues entras:
 
