@@ -11,7 +11,7 @@ git clone https://github.com/d3b0o/bot-spamer-python
 Despues tines que instalar la libreria `pyautogui`, para hacerlo se tiene que escribir esto en la terminal
 
 ```
-pip install pyautgui
+pip install pyautogui
 ```
 
 Entras:
