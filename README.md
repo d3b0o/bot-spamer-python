@@ -4,14 +4,18 @@ Es un simple programa para automatizar un envio massivo de mensajes de texto
 # Funcionamiento:
 Para usarlo tienes que primero clonar el repositorio:
       
-      git clone https://github.com/d3b0o/bot-spamer-python
+`git clone https://github.com/d3b0o/bot-spamer-python`
       
-Despues entras:
+Despues tines que instalar la libreria _pyautogui_, para hacerlo se tiene que escribir esto en la terminal
 
-      cd bot-spamer-python
-      
-Lo ejecutamos
+`pip install pyautgui`
 
-      python3 bot.py
+Entras:
+
+`cd bot-spamer-python`
       
-Nos pedira el mensaje que queremos poner, despues el delay entre mensajes y por ultimo tendremos 10 segundos para entrar en el programa que queremos enviar los mensajes...
+Lo ejecutas
+
+`python3 bot.py`
+      
+Te pedira el mensaje que quieres poner, despues el delay entre mensajes y por ultimo tendras 10 segundos para entrar en el programa que queremos enviar los mensajes...
